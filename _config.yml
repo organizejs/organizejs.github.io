@@ -1,2 +1,9 @@
-name: Collective Actions in Tech
+name: JS Tan
+url: https://organizejs.com
+description: Personal Website
+twitter: 
+  username: organizejs
+  card: summary
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
