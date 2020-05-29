@@ -3,6 +3,7 @@ body {
     line-height: 1.2em;
     margin: 5% auto;
     width: 90%;
+    max-width: 900px;
 }
 nav {
     position: relative;
@@ -16,6 +17,13 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+}
+hr {
+    margin: 24px 0;
+    border: 0px;
+    height: 0px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 a {
     text-decoration: none;
@@ -43,10 +51,14 @@ td {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-
 td.date {
   padding-right: 16px;
   color: #aaa;
   vertical-align: top;
 }
-
+td.publication {
+  font-style: italic;
+}
+td.description {
+  padding-bottom: 16px;
+}
