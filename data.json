@@ -1,10 +1,38 @@
 [
   {
+    "date": "2020",
+    "link": "https://lausan.hk/2020/beijings-new-national-security-laws-and-the-future-of-hong-kong/",
+    "title": "Beijings new national security laws and the future of Hong Kong",
+    "publication": "Lausan Magazine",
+    "description": "Chinas new national security laws are a significant escalation against the protest movement in Hong Kong. Rather than act through Hong Kong officials to carry out its will, Beijing has decided to directly restrict the free speech rights of Hong Kong residents."
+  },
+  {
+    "date": "2020",
+    "link": "https://www.jacobinmag.com/2020/04/covid-19-coronavirus-surveillance-technology",
+    "title": "We Cant Let Tech Companies Use This Crisis to Expand Their Power",
+    "publication": "Jacobin Magazine",
+    "description": "Whether in China or the United States, tech companies are teaming up with governments to boost surveillance amid the coronavirus pandemic. Its a slippery slope that threatens to bring more civil liberties violations and more power for profit-hungry tech companies."
+  },
+  {
+    "date": "2019",
+    "link": "https://www.theguardian.com/commentisfree/2019/dec/22/tech-worker-activism-2019-what-we-learned",
+    "title": "What we learned from over a decade of tech activism",
+    "publication": "The Guardian",
+    "description": "The tech industrys emphasis on the new has often overshadowed long-standing struggles, such as the two-tiered system of contracted vs. salaried employment. The techlash is not new but has been ongoing for decades, predominantly led by less privileged workers at the Big Tech companies."
+  },
+  {
     "date": "2019",
     "link": "https://jacobinmag.com/2019/11/microsoft-defense-department-jedi-contract-china",
     "title": "A New Era in Tech Nationalism",
     "publication": "Jacobin Magazine",
     "description": "Microsoft won a massive $10 billion contract from the Defense Department, showing how nationalism, militarism, and corporate power intermingle in the tech industry. Our response must be to unite tech workers across borders — and reject the jingoism that divides us."
+  },
+  {
+    "date": "2019",
+    "link": "https://logicmag.io/nature/oil-is-the-new-data/",
+    "title": "Oil is the New Data",
+    "publication": "Logic Magazine, Nature Issue",
+    "description": "Big Tech is forging a lucrative partnership with Big Oil, building a new carbon cloud that just might kill us all."
   },
   {
     "date": "2019",
@@ -25,34 +53,34 @@
     "link": "https://jacobinmag.com/2019/06/hong-kong-china-protests-extradition-bill",
     "title": "\"Hong Kong's Last Battle\"",
     "publication": "Jacobin Magazine, written with Sherry Chan",
-    "desecription": "Protesters in Hong Kong are still clogging the streets en masse. Their task: to face down not just the authoritarianism of the Chinese Communist Party but the self-dealing of Hong Kong capitalists."
+    "description": "Protesters in Hong Kong are still clogging the streets en masse. Their task: to face down not just the authoritarianism of the Chinese Communist Party but the self-dealing of Hong Kong capitalists."
   },
   {
     "date": "2019",
     "link": "https://www.jacobinmag.com/2019/05/tech-workers-chinese-solidarity-microsoft-github",
     "title": "Tech Workers are Workers Too",
     "publication": "Jacobin Magazine",
-    "desecription": "Tech workers in China and the US recently united in the largest display of tech worker solidarity we've ever seen. Its exactly what we need to prevent a global race to the bottom in tech."
+    "description": "Tech workers in China and the US recently united in the largest display of tech worker solidarity we've ever seen. Its exactly what we need to prevent a global race to the bottom in tech."
   },
   {
     "date": "2019",
     "link": "https://www.jacobinmag.com/2019/01/stem-coding-bootcamp-education-scam-philanthropy",
     "title": "The Tech Education Con",
     "publication": "Jacobin Magazine",
-    "desecription": "Big tech companies are spending millions to get young people into coding and STEM  not out of altruism, but to create a future supply of cheap labor."
+    "description": "Big tech companies are spending millions to get young people into coding and STEM  not out of altruism, but to create a future supply of cheap labor."
   },
   {
     "date": "2018",
     "link": "https://www.jacobinmag.com/2018/11/tech-worker-organizing-google-union-walkout",
     "title": "Workers Need to Keep Organizing",
     "publication": "Jacobin Magazine",
-    "desecription": "Despite their often-high salaries, tech workers are workers. And like any other kind of worker, to advocate for their interests on the job, they need to get organized."
+    "description": "Despite their often-high salaries, tech workers are workers. And like any other kind of worker, to advocate for their interests on the job, they need to get organized."
   },
   {
     "date": "2018",
     "link": "https://medium.com/gradient-sliding-scale/towards-an-equitable-met-faq-93f7f17fd25b",
     "title": "Towards Equitable Met Ticketing",
     "publication": "Medium, written with Gradient and Look at Art Get Paid",
-    "desecription": "Funding for the arts in the US--both public and private--is still monopolized by white-run cultural institutions such as the Met. A proposal for more equitable Met ticketing."
+    "description": "Funding for the arts in the US--both public and private--is still monopolized by white-run cultural institutions such as the Met. A proposal for more equitable Met ticketing."
   }
 ]
