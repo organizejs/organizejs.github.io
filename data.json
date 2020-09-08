@@ -1,9 +1,44 @@
 [
   {
     "date": "2020",
-    "link": "https://lausan.hk/2020/beijings-new-national-security-laws-and-the-future-of-hong-kong/",
-    "title": "Beijing's new national security laws and the future of Hong Kong",
-    "publication": "Lausan Magazine, written with Vincent Wong",
+    "link": "https://foreignpolicy.com/2020/08/27/china-tech-facebook-google/",
+    "title": "Big Tech Embraces New Cold War Nationalism",
+    "publication": "Foreign Policy",
+    "description": "Tracing Big Tech's shift from the Californian Ideology to a new era of tech nationalism; and how the internet transformed from the perfect medium of neoliberalism to one of the most contested arenas of the new Cold War."
+  },
+  {
+    "date": "2020",
+    "link": "https://spectrejournal.com/under-chinas-thumb/",
+    "title": "Under China's Thumb",
+    "publication": "Spectre Journal, written with RS",
+    "description": "As US-China tensions worsen, Hong Kong will only be more deeply entangled in this geopolitical contest. Ceding ground to the binary logic of the Cold War redux limits our ability to rise up against right-wing authoritarianism everywhere."
+  },
+  {
+    "date": "2020",
+    "link": "https://lausan.hk/2020/hong-kongs-new-era-of-terror/",
+    "title": "Hong Kongs new era of terror",
+    "publication": "Lausan Magazine, written with JN",
+    "description": "The criminalization of dissent in Hong Kong takes place within a global wave of national militarization and securitization, linking Hong Kong's struggle to anti-establishment struggles around the world."
+  },
+  {
+    "date": "2020",
+    "link": "https://lausan.hk/2020/we-cant-let-china-apologists-stop-us-from-supporting-black-lives-matter/",
+    "title": "We cant let China apologists stop us from supporting Black Lives Matter",
+    "publication": "Lausan Magazine, written with JN",
+    "description": "We can't let pro-CCP nationalists on the Western left discredit other social movements - especially movements that are also fighting against police violence."
+  },
+  {
+    "date": "2020",
+    "link": "https://lausan.hk/2020/hong-kong-must-stand-with-blm/",
+    "title": "The Hong Kong movement must stand with Black Lives Matter",
+    "publication": "Lausan Magazine, written with Promise Li",
+    "description": "Hongkongers must stand with #BlackLivesMatter, not just because our struggles appear similar but because our liberation as working people in this system of global capitalism is impossible without the liberation of Black people."
+  },
+  {
+    "date": "2020",
+    "link": "https://jacobinmag.com/2020/05/china-national-security-laws-hong-kong-protests",
+    "title": "What Chinas New National Security Laws Mean for the Protest Movement in Hong Kong",
+    "publication": "Jacobin Magazine, written with Vincent Wong",
     "description": "Beijings new national security laws will mean the end of Hong Kong as we know it. Political resistance now comes at a much steeper price; Hongkongers are now rushing to install VPNs as a protective measure."
   },
   {
