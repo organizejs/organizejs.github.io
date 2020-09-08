@@ -1,4 +1,4 @@
-var data_url = "https://raw.githubusercontent.com/organizejs/organizejs.github.io/master/data.json?token=AGDVVD72DOCIN6MMRODIXYK63G2X2"; 
+var data_url = "https://raw.githubusercontent.com/organizejs/organizejs.github.io/master/data.json"; 
 
 function getTemplate(date, link, title, publication, description) {
   return `
